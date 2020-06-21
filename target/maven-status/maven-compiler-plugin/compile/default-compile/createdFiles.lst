@@ -1,0 +1,10 @@
+com\project\OrderServiceMS\repository\OrderDetailsRepository.class
+com\project\OrderServiceMS\entity\ProductsOrderedEntity.class
+com\project\OrderServiceMS\DTO\ProductsOrderedDTO.class
+com\project\OrderServiceMS\entity\OrderDetailsEntity.class
+com\project\OrderServiceMS\OrdermanagementApplication.class
+com\project\OrderServiceMS\controller\OrderController.class
+com\project\OrderServiceMS\DTO\OrderDetailsDTO.class
+com\project\OrderServiceMS\service\OrderService.class
+com\project\OrderServiceMS\DTO\ProductId.class
+com\project\OrderServiceMS\repository\ProductsOrderedRepository.class

@@ -1,0 +1,10 @@
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\entity\ProductsOrderedEntity.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\controller\OrderController.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\entity\OrderDetailsEntity.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\repository\OrderDetailsRepository.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\repository\ProductsOrderedRepository.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\DTO\ProductId.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\DTO\ProductsOrderedDTO.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\DTO\OrderDetailsDTO.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\service\OrderService.java
+C:\DEMO_PROJECT\OrderServiceMS\src\main\java\com\project\OrderServiceMS\OrdermanagementApplication.java
